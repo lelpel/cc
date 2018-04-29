@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#0277bd</color>
+    <color name="colorPrimaryDark">#004c8c</color>
+    <color name="colorAccent">#c2185b</color>
+    <color name="circleColor1">#673AB7</color>
+    <color name="circleColor2">#26A69A</color>
+    <color name="circleColor3">#ef5350</color>
+    <color name="circleColor4">#FFA726</color>
+    <color name="circleColor5">#42A5F5</color>
+    <color name="circleColor6">#66BB6A</color>
+    <color name="circleColor7">#78909C</color>
+    <color name="circleColor8">#ef5350</color>
+    <color name="round">#b0bec5</color>
+</resources>
